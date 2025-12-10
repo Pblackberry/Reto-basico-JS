@@ -23,7 +23,7 @@ El objetivo es comprender cómo manipular transformaciones en CSS y actualizar l
 ```
 3. Abrir el archivo index.html en el navegador (no requiere de ninguna dependencia)
 
-##🌍 Link al despliegue del proyecto
+## 🌍 Link al despliegue del proyecto
 https://reto-basico-js.onrender.com
 
-##Autor: Tomás López
+## Autor: Tomás López
